@@ -1,0 +1,20 @@
+# Build output
+bin/
+obj/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+*.DotSettings.user
+*.DotSettings
+
+# VS / VSCode artifacts
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
